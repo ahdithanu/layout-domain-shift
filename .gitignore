@@ -224,3 +224,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# raw inference output, exceeds GitHub 100MB limit
+results/val_preds*.json
+results/val_oos*.json
+results/val_out_of_schema.json
+
+# holdout corpus is tracked; source PDFs are not
+!data/holdout/manifest.csv
+!data/holdout/*.png
+data/holdout/*.pdf

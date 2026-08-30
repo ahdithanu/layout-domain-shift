@@ -1,0 +1,12 @@
+class,gt_instances,AP,AP50,AR100
+Caption,5,34.9,77.8,48.0
+Footnote,46,78.8,99.4,81.7
+Formula,9,30.3,38.8,68.9
+List-item,993,69.2,93.0,77.5
+Page-footer,346,57.7,80.3,59.9
+Page-header,501,49.2,93.5,61.0
+Picture,108,53.0,85.1,66.0
+Section-header,793,55.4,96.0,67.2
+Table,180,55.2,60.4,87.6
+Text,2212,79.0,92.6,86.6
+Title,22,8.4,20.0,38.2

@@ -1,0 +1,92 @@
+{
+  "split": "holdout",
+  "gt_file": "data/holdout/annotations/holdout_gt.json",
+  "pred_file": "results/holdout_preds.json",
+  "doc_category": null,
+  "score_thresh": 0.0,
+  "n_images": 25,
+  "n_images_with_predictions": 25,
+  "n_gt_annotations": 183,
+  "aggregate": {
+    "mAP": 0.04549015945811346,
+    "AP50": 0.21490905261984192,
+    "AP75": 0.022350921919218388,
+    "AP_small": 0.0,
+    "AP_medium": 0.05649717514124293,
+    "AP_large": 0.07976209352925084
+  },
+  "per_class": {
+    "caption": {
+      "AP": NaN,
+      "AP50": NaN,
+      "AR100": NaN
+    },
+    "footnote": {
+      "AP": 0.117011701170117,
+      "AP50": 1.1701170117011699,
+      "AR100": 2.5
+    },
+    "formula": {
+      "AP": NaN,
+      "AP50": NaN,
+      "AR100": NaN
+    },
+    "list-item": {
+      "AP": 0.0,
+      "AP50": 0.0,
+      "AR100": 0.0
+    },
+    "page-footer": {
+      "AP": 0.020779855763354112,
+      "AP50": 0.10389927881677057,
+      "AR100": 3.3333333333333335
+    },
+    "page-header": {
+      "AP": 0.0766901681034015,
+      "AP50": 0.32520972228753753,
+      "AR100": 3.8095238095238093
+    },
+    "picture": {
+      "AP": 0.0,
+      "AP50": 0.0,
+      "AR100": 0.0
+    },
+    "section-header": {
+      "AP": 0.1536360532604985,
+      "AP50": 0.1707067258449983,
+      "AR100": 3.913043478260869
+    },
+    "table": {
+      "AP": 0.027913940475636632,
+      "AP50": 0.030451571427967228,
+      "AR100": 16.52173913043478
+    },
+    "text": {
+      "AP": 0.01337971635001338,
+      "AP50": 0.1337971635001338,
+      "AR100": 0.45454545454545453
+    },
+    "title": {
+      "AP": 0.0,
+      "AP50": 0.0,
+      "AR100": 0.0
+    }
+  },
+  "gt_counts": {
+    "footnote": 4,
+    "table": 23,
+    "text": 44,
+    "title": 9,
+    "section-header": 23,
+    "list-item": 49,
+    "page-header": 21,
+    "picture": 4,
+    "page-footer": 6
+  },
+  "out_of_schema": {
+    "count": 1922,
+    "rate": 0.25626666666666664,
+    "by_class": {}
+  },
+  "predictions_dropped_image_not_in_split": 0
+}

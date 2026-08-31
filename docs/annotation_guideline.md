@@ -94,3 +94,24 @@ than sequential completion.
 
 Caltrans is the issuer for 3 of 5 documents. Per-class results reflect that
 concentration and are reported with document counts alongside page counts.
+
+13. **Table titles.** [Included inside the Table region | Labeled Caption].
+    Applied uniformly to all bordered charts and tables.
+
+13. **Table titles.** [Included inside the Table region | Labeled Caption].
+    Applied uniformly to all bordered charts and tables.
+
+13. **Table titles.** [Included inside the Table region | Labeled Caption].
+    Applied uniformly to all bordered charts and tables.
+
+14. **Signature blocks.** Rule 4 excludes dedicated signature regions. Where a
+    signature sits within a larger block (heading, rule line, role, date), the
+    block is annotated Text and the signature is not carved out.
+
+15. **Professional stamps and seals.** Picture. Discrete graphics boxable
+    without capturing body text, per rule 5.
+
+16. **Multi-section forms.** Rule 3 (one Table per empty form grid) applies to a
+    single contiguous grid. Where a bordered form contains multiple distinct
+    grids separated by banners or prose, each grid is its own Table, banners are
+    Section-header, and prose blocks are Text.
